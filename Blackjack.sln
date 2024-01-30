@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Blackjack", "Blackjack\Blackjack.shproj", "{A5306195-9466-4637-B090-EF731B0E57FE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93558CA-A26C-44EC-BCB4-75AD1989408B}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Blackjack\Blackjack.projitems*{a5306195-9466-4637-b090-ef731b0e57fe}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
